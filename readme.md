@@ -4,12 +4,21 @@
 
 http://atnd.org/events/24518
 
+## ScalaTest
+
+http://www.scalatest.org/
+
+## specs2
+
+http://etorreborre.github.com/specs2/
+
 ## Articles
 
 http://d.hatena.ne.jp/seratch2/20110807/1312726957
+
 http://d.hatena.ne.jp/seratch2/20120122/1327231056
 
-## testgen-sbt
+## FYI: testgen-sbt
 
 https://github.com/seratch/testgen-sbt
 
