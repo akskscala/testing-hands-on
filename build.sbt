@@ -9,6 +9,8 @@ libraryDependencies ++= Seq(
   "org.scala-tools.testing" %% "scalacheck" % "1.9"
 )
 
+seq(lsSettings :_*)
+
 seq(testgenSettings: _*)
 
 testgenEncoding in Compile := "UTF-8"
