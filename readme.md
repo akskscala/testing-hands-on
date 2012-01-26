@@ -1,4 +1,10 @@
-# Akasaka.scala testing-hands-on
+# Akasaka.scala 
+
+Testing hands-on at Akasaka.scala
+
+## Requirement
+
+xsbt 0.11.2
 
 ## Akasaka.scala 29
 
